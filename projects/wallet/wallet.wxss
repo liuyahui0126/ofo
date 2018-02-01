@@ -1,0 +1,49 @@
+/* projects/wallet/wallet.wxss */
+.container{
+  width: 100%;
+  height: 100vh;
+  background-color: #f2f2f2;
+}
+.money{
+  background-color: #fff;
+  padding: 40rpx;
+}
+.money .money-title{
+  font-size: 30rpx;
+  text-align: center;
+  width: 100%;
+  margin-bottom: 60rpx;
+}
+.money .money-content{
+  font-size: 100rpx;
+  font-weight: 600;
+  text-align: center;
+  margin-bottom: 20rpx;
+}
+.money .money-desc{
+  text-align: center;
+}
+.money .money-desc text{
+  font-size: 30rpx;
+  border: 1px solid #ccc;
+  display: inline-block;
+  padding: 10rpx 30rpx;
+  border-radius: 36px;
+}
+button{
+  background-color: #b9dd08;
+  margin: 30rpx;
+}
+.same{
+  display: flex;
+  background-color: #fff;
+  padding: 40rpx;
+  font-size: 36rpx;
+  justify-content: space-between;
+}
+.my-charge{
+  margin-top: 4rpx;
+}
+.about{
+  margin-top: 40rpx;
+}
