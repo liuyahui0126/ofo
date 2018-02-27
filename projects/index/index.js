@@ -36,10 +36,12 @@ Page({
       wx.redirectTo({
         url: '../warn/warn',
       })
+      break;
       case 4:
       wx.redirectTo({
         url: '../my/my',
       })
+      break;
     }
   },
   onLoad: function (p) {
