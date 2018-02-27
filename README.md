@@ -5,3 +5,6 @@
 #### 详细界面可在screenPic中查看，这里就不放全部了
 
 ![index](/screenPic/index.jpg)
+![my](/screenPic/my.jpg)
+![scanCode](/screenPic/scanCode.jpg)
+![warn](/screenPic/warn.jpg)
